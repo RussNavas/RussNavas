@@ -16,9 +16,10 @@ I am currently looking for my first full time role post graduation with a focus 
 
 ## My latest Project:
 
-  - [playsuperttt.app](https://playsuperttt.app/)
+   [playsuperttt.app](https://playsuperttt.app/)
 
-    ![playsuperttt.app home page](SuperTTT.jpg)
+
+![playsuperttt.app home page](SuperTTT.jpg)
 
 ## My Latest Hike 🏔️:
 
