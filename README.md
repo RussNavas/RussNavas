@@ -14,7 +14,9 @@ I like to write backend systems in Python and Go, I am also having fun with Type
 
 # My latest Project:
 
-   [playsuperttt.app](https://playsuperttt.app/)
+   Repo here → [super tic tac toe](https://github.com/RussNavas/SuperTicTacToe)
+   
+   Live here → [playsuperttt.app](https://playsuperttt.app/)
 
 
 ![playsuperttt.app home page](SuperTTT.jpg)
