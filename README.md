@@ -25,11 +25,3 @@ I am currently looking for my first full time role post graduation with a focus 
 ## My Latest Hike 🏔️:
 
 ![picture of Mt.Rainer](/Rainer.jpeg)
-
-## Some Cooking I am Proud of 🥩 🍕 🍞: 
-
-![picture of medium rare ribeye](steak.jpg)
-
-![picture of pizza](IMG_2841.jpeg)
-
-![picture of sourdough bread](IMG_2943.jpeg)
